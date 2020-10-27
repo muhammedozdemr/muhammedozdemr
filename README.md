@@ -1,4 +1,4 @@
-### Hi there, I'm [Muhammed Özdemir!](https://www.ohidur.com) 👋
+### Hi there, I'm [Muhammed Özdemir!](https://github.com/muhammedozdemr) 👋
 <a href="https://twitter.com/muhammedozdem1r">
   <img align="left" alt="Muhammed Özdemir's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
