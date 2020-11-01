@@ -16,7 +16,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently working on my project [Vuejs](https://github.com/muhammedozdemr/Vuejs)
+- 🔭 I’m currently working on my project [Vuejs ile Instagram](https://github.com/muhammedozdemr/Application-with-Vuejs)
 - 🌱 I’m currently learning Vuejs
 - 💬 Ask me about anything [here](https://github.com/muhammedozdemr/muhammedozdemr)
 - 📫 How to reach me: muhammedozdemr@outlook.com <br>
