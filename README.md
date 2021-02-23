@@ -8,7 +8,7 @@
 <a href="https://github.com/muhammedozdemr">
   <img align="left" alt="Muhammed Özdemir's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/_mozdemr">
+<a href="https://instagram.com/_muhammedozdemir">
   <img align="left" alt="Muhammed Özdemir's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
