@@ -3,12 +3,6 @@
 
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=muhammedozdemr.muhammedozdemr)
 
-### 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/Html-05122A?style=flat&logo=html&logoColor=29B6F6)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 ### 📊 GitHub Analytics
 
 <p align="center">
