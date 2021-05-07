@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">Web Developer at BlackBlu Software</h3>
 
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=muhammedozdemr.muhammedozdemr)
 
