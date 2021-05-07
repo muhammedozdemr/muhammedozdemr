@@ -1,26 +1,24 @@
-### Hi there, I'm [Muhammed Özdemir!](https://github.com/muhammedozdemr) 👋
-<a href="https://twitter.com/muhammedozdem1r">
-  <img align="left" alt="Muhammed Özdemir's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/muhammedozdemr/">
-  <img align="left" alt="Muhammed Özdemir's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Muhammed</h1>
+<h3 align="center">Web Developer at BlackBlu Software</h3>
+
+## ![](https://visitor-badge.laobi.icu/badge?page_id=muhammedozdemr.muhammedozdemr)
+
+### 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/Html-05122A?style=flat&logo=html&logoColor=29B6F6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### 📊 GitHub Analytics
+
+<p align="center">
 <a href="https://github.com/muhammedozdemr">
-  <img align="left" alt="Muhammed Özdemir's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedozdemr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true%22%20alt=%22muhammedozdemr"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedozdemr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia%22%20alt=%22muhammedozdemr"/>
 </a>
-<a href="https://instagram.com/__muhammedozdemir">
-  <img align="left" alt="Muhammed Özdemir's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</p>
 
-<br />
 
-### Glad to see you here! 🤩 &nbsp;
-
-- 🔭 I’m currently working on my project [Website](https://github.com/muhammedozdemr/ecommerce-with-php)
-- 🌱 I’m currently learning Vuejs
-- 💬 Ask me about anything [here](https://github.com/muhammedozdemr/muhammedozdemr)
-- 📫 How to reach me: muhammedozdemr@outlook.com <br>
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 **Languages and Tools:** &nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
